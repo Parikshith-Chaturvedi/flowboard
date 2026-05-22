@@ -19,6 +19,7 @@
     "jwks-rsa": "^3.1.0"
   },
   "devDependencies": {
+    "@flowboard/config": "workspace:*",
     "@types/express": "^4.17.0",
     "@types/cors": "^2.8.0",
     "@types/jsonwebtoken": "^9.0.0",
